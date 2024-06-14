@@ -4,7 +4,7 @@ using namespace std;
 class Airport
 {
 	private:
-	string Airline_Name[6]={"PIA-Gold","Air-Blue","Red-Rose","Emirates","Shaheen"};
+	string Airline_Name[6]={"Air-India","IndiGo","Akasa Air","Emirates","Vistara"};
 	string Airline_No[6]={"B-707","A-503","R-401","E-306","S-102"};
 	int Passenger[6]={200,300,150,100,170};
 	string Arrival_Time[6]={"2:00PM","12:00AM","5:00AM","9:00PM","7:00PM"};
